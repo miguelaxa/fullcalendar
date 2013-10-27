@@ -18,6 +18,11 @@
 			'start' => "$year-$month-20",
 			'end' => "$year-$month-22",
 			'url' => "http://yahoo.com/"
+		),
+		array(
+			'id' => 333,
+			'title' => "Event3",
+			'start' => "$year-$month-4"
 		)
 	
 	));
